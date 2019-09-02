@@ -1,5 +1,5 @@
 # RevNotation
-Reverse notation for unity mathematical libraries.
+Reverse notation for Unity3D mathematical libraries.
 
 # Why
 This script library is for people like me, who are to lazy to write
@@ -17,6 +17,9 @@ Copy the scripts to your assets folder anywhere and at top your script add line:
 
 ```csharp
 using Roargh.Rev.Floats
+```
+
+Soon I will add simmilar lib for Vectors. At least useful ones but I am sleepy now.
 
 
 
