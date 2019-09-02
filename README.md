@@ -16,7 +16,7 @@ vaf x = y.Lerp(100f, t * Time.deltaTime).Clamp(100f);
 Copy the scripts to your assets folder anywhere and at top your script add line:
 
 ```csharp
-using Roargh.Rev.Floats
+using Roargh.Rev.Floats;
 ```
 
 Soon I will add simmilar lib for Vectors. At least useful ones but I am sleepy now.
